@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631493617569",
+    "firebase_url": "https://orkid-36929.firebaseio.com",
+    "project_id": "orkid-36929",
+    "storage_bucket": "orkid-36929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631493617569:android:db82c4378494f02cd2cde0",
+        "android_client_info": {
+          "package_name": "com.yourcompany.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631493617569-57smdkdgcab6hn5soq7vi61jnbc6eknm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtHuZSwcQ4AaZIKj8ql-8xMvxNzIVYUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631493617569-57smdkdgcab6hn5soq7vi61jnbc6eknm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
